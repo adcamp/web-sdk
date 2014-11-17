@@ -1,7 +1,7 @@
 <p><div class="toc"><div class="toc">
 <ul>
 <li><a href="#руководство-по-интеграции-sdk-adcamp-для-мобильных-web-страниц">Руководство по интеграции SDK AdCamp для мобильных WEB-страниц</a><ul>
-<li><ul>
+<ul>
 <li><a href="#подготовка-к-работe">Подготовка к работe</a></li>
 <li><a href="#требования">Требования</a></li>
 <li><a href="#получение-рекламного-кода">Получение рекламного кода</a></li>
@@ -44,7 +44,8 @@
 <li>Яндекс.Браузер</li>
 <li>Android browser (Android 2.3+) </li>
 <li>Internet Explorer (Windows Phone 7.0+)</li>
-<li>Nokia browser (Symbian 60S) OSS Browser (Symbian 60S)</li>
+<li>Nokia browser (Symbian 60S)</li> 
+<li>OSS Browser (Symbian 60S)</li>
 </ul>
 
 <h3 id="получение-рекламного-кода">Получение рекламного кода</h3>
